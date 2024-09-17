@@ -490,6 +490,9 @@ main .explore .trending {
 
 /* Responsive Design */
 @media screen and (max-width:991px) {
+    html {
+    font-size: 8px
+    }
     header {
         justify-content: flex-start;
         padding-left: 10px;
